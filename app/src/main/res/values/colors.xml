@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#1C283D</color>
-    <color name="colorPrimaryDark">#1C283D</color>
+    <color name="colorPrimary">#141E2E</color>
+    <color name="colorPrimaryDark">#141E2E</color>
     <color name="colorAccent">#FF8282</color>
-    <color name="app_background">#1C283D</color>
+    <color name="app_background">#141E2E</color>
     <color name="default_text_color">#FFFFFF</color>
     <color name="text_grey">#c7cfc8</color>
     <color name="potentially_hazardous">#FF8282</color>
